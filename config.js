@@ -99,8 +99,8 @@ export const config = {
         {
             icon: <HiMail className="w-5 h-5" />,
             label: "Email",
-            value: "fr3zy@example.com",
-            link: "mailto:fr3zy@example.com"
+            value: "rslngbkl09@gmail.com",
+            link: "mailto:rslngbkl09@gmail.com"
         },
         {
             icon: <FaMapPin className="w-5 h-5" />,
