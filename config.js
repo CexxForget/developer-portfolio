@@ -3,10 +3,10 @@ import { HiCode, HiCube, HiDatabase, HiMail } from "react-icons/hi";
 
 export const config = {
     developer: {
-        name: "Fr3zy",
+        name: "CexxForget",
     },
     social: {
-        github: "Fr3zyy",
+            github: "CexxForget",
         discord: "1155137511954337887"
     },
     NAV_ITEMS: [
@@ -87,14 +87,14 @@ export const config = {
         {
             icon: <FaDiscord className="w-5 h-5" />,
             label: "Discord",
-            value: "fr3zy",
+            value: "CexxForget",
             link: `https://discord.com/users/1155137511954337887`
         },
         {
             icon: <FaGithub className="w-5 h-5" />,
             label: "GitHub",
-            value: "@fr3zy",
-            link: `https://github.com/fr3zyy`
+            value: "@CexxForget",
+            link: `https://github.com/cexxForget`
         },
         {
             icon: <HiMail className="w-5 h-5" />,
